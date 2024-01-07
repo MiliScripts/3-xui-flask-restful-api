@@ -1,0 +1,28 @@
+
+SUB_HOST_URL : 'http://localhost:5000'
+MONGO_STRING : "mongodb+srv://mili:mili@cluster0.tz6xsvm.mongodb.net/?retryWrites=true&w=majority"
+PANEL_USERNAME : 'devVpn'
+PANEL_PASSWORD : 'devVpn100%'
+ZONE_ID : '5a20e00268f5eb7c73783ce44d15af8d'
+EMAIL : 'alfredforex.bot@gmail.com'
+GLOBAL_API_AKY : '5e345af108e6bbbd757f650f5ecd5260a9707'
+PANEL_PORT  : '2053'
+CONFIG_PORT : '80'
+SCANNER_USERNAME : 'AdminMain'
+SCANNER_PASSWORD : 'MainAdmin'
+SECRET_KEY : 'd66e208112e4b4f09bf469c9c4afb730'
+CLEAN_IP_NUMBER : 3 #update in next version
+PERMANENT_SESSION_LIFETIME : 3600
+# STATUS_USERNAME : 'mili'
+# STATUS_PASSWORD : "mili"
+BOT_TOKEN : "6988877148:AAF0RIYXHZf2XKbkzG4c2E_e0bCUxkflsWs"
+BOT_CHANNEL_ID  : "-1001999966551"
+BACK_UP_INTERVAL : 18000
+DUMP_INTERVAL : 3600
+panel_suffix : "whitemeow.site"
+hamrah: hamrah.x1.whitemeow.site
+irancell: irancell.x1.whitemeow.site
+wifi: wifi.x1.whitemeow.site
+rightel: rightel.x1.whitemeow.site
+manager_uuid : "f53d5571-6e61-4f69-82e0-ea45f576ce1c"
+manager_token : "YoImSlimShadybackagainwiththecrazyrhymesDroppingbombslikemynameisSaddamGottheskillsandthetalenttobringthefireInthegameImariserisinghigher"
